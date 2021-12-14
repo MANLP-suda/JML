@@ -27,8 +27,10 @@ The whole structure of the model as follows:
 The checkpoint can be [download](#). Setting the path of the 'output_dir' and using only 'do_predict' in joint_train.sh.
 The model can be trained by follows:
 ```
-bash  joint_train.sh
-```
+bash  joint_train.sh  
+```  
+
+## Experiment 
 
 ## ⚙️Installation
 Make sure the following dependencies are installed.
