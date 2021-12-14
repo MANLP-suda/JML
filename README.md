@@ -22,16 +22,29 @@ For main task training, we pre-training the relation model with whole dataset, d
 
 # Joint model training 
 The whole structure of the model as follows:  
-![image](https://user-images.githubusercontent.com/69071185/145938959-d2458f1b-9250-4e26-aca6-71bc4aee9edc.png)
+<!-- ![image](https://user-images.githubusercontent.com/69071185/145938959-d2458f1b-9250-4e26-aca6-71bc4aee9edc.png) -->
+<img src='https://user-images.githubusercontent.com/69071185/145938959-d2458f1b-9250-4e26-aca6-71bc4aee9edc.png' width='500'>
+The checkpoint can be [download](#). Setting the path of the 'output_dir' and using only 'do_predict' in joint_train.sh.
 The model can be trained by follows:
 ```
 bash  joint_train.sh
 ```
-The checkpoint can be [download](#). Setting the path of the 'output_dir' and using only 'do_predict' in joint_train.sh.
 
+## ⚙️Installation
+Make sure the following dependencies are installed.
+
+- python 3.6.6
+- pytorch 1.1.0
+- Numpy 1.17.4
+- tqdm 4.46.1
+- json 2.0.9
+- argparse 1.1
 
 <!-- # About whole code -->
 <!-- We are delighted that paper is accepted by EMNLP and we promised to open the code. However, I am very busy recently. Given a few weeks, the code will be on the github. -->  
+
+
+## 📜Citation
 ```
 @inproceedings{JuZXLLZZ21,
   title     = {Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection},
