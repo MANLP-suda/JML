@@ -1,6 +1,6 @@
 # Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection
 Thanks for your stay in this repo.
-This project aims to jointly extract aspect and opinion in a multi-modal scenario, involving a image-test relation module.[paper](https://aclanthology.org/2021.emnlp-main.360.pdf)
+This project aims to jointly extract aspect and opinion in a multi-modal scenario, involving a image-text relation module.[paper](https://aclanthology.org/2021.emnlp-main.360.pdf)
 
 ## 🔎 Motivation
 - Some studies such as [(chen zhang, 2020a)](https://aclanthology.org/2020.findings-emnlp.72.pdf),[(Guimin Chen,2020)](https://doi.org/10.18653/v1/2020.coling-main.24) ,[(Minghao Hu 2019)](https://aclanthology.org/P19-1051.pdf) focusing on textual scenario have attempted to solve both aspect extraction and sentiment classification in a more integrated way. Inspired by these reseach, we attempt to introduce the task to multi-modal scenario. 
