@@ -22,7 +22,7 @@ Make sure the following dependencies are installed.
 
 ## 💾 dataset  
 
-- The relationi dataset TRC comes from [paper](https://aclanthology.org/P19-1272.pdf), which can be [download](https://github.com/danielpreotiuc/text-image-relationship/).
+- The relation dataset TRC comes from [paper](https://aclanthology.org/P19-1272.pdf), which can be [download](https://github.com/danielpreotiuc/text-image-relationship/).
 - The twitter dataset comes from [paper](https://aclanthology.org/P18-1185.pdf). The detailed information can be seen in section 4.1.  
 
 ## 🚀 Quick start  
