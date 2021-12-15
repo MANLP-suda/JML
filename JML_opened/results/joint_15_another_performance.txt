@@ -1,0 +1,746 @@
+dev step: 39, loss: 4.9987, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 39, loss: 4.9987, P: 0.0000, R: 0.0000, F1: 0.0000 (common: 0.0, retrieved: 0.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 52, loss: 2.8412, P: 0.2295, R: 0.0847, F1: 0.1237 (common: 95.0, retrieved: 414.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 52, loss: 2.8412, P: 0.2083, R: 0.0771, F1: 0.1126 (common: 80.0, retrieved: 384.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 65, loss: 2.2688, P: 0.2369, R: 0.2825, F1: 0.2577 (common: 317.0, retrieved: 1338.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 65, loss: 2.2688, P: 0.2192, R: 0.2816, F1: 0.2465 (common: 292.0, retrieved: 1332.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 78, loss: 1.8373, P: 0.2381, R: 0.3556, F1: 0.2852 (common: 399.0, retrieved: 1676.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 78, loss: 1.8373, P: 0.2196, R: 0.3529, F1: 0.2707 (common: 366.0, retrieved: 1667.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 91, loss: 1.7139, P: 0.3395, R: 0.4439, F1: 0.3847 (common: 498.0, retrieved: 1467.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 91, loss: 1.7139, P: 0.3059, R: 0.4272, F1: 0.3565 (common: 443.0, retrieved: 1448.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 104, loss: 1.6594, P: 0.3606, R: 0.4554, F1: 0.4025 (common: 511.0, retrieved: 1417.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 104, loss: 1.6594, P: 0.3314, R: 0.4455, F1: 0.3801 (common: 462.0, retrieved: 1394.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 117, loss: 1.7116, P: 0.3288, R: 0.4082, F1: 0.3642 (common: 458.0, retrieved: 1393.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 117, loss: 1.7116, P: 0.3212, R: 0.4272, F1: 0.3667 (common: 443.0, retrieved: 1379.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 130, loss: 1.6159, P: 0.3972, R: 0.5009, F1: 0.4430 (common: 562.0, retrieved: 1415.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 130, loss: 1.6159, P: 0.3669, R: 0.5024, F1: 0.4241 (common: 521.0, retrieved: 1420.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 143, loss: 1.3767, P: 0.4353, R: 0.5187, F1: 0.4734 (common: 582.0, retrieved: 1337.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 143, loss: 1.3767, P: 0.4066, R: 0.5101, F1: 0.4525 (common: 529.0, retrieved: 1301.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 156, loss: 1.3716, P: 0.4819, R: 0.5089, F1: 0.4950 (common: 571.0, retrieved: 1185.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 156, loss: 1.3716, P: 0.4629, R: 0.5111, F1: 0.4858 (common: 530.0, retrieved: 1145.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 169, loss: 1.3211, P: 0.4638, R: 0.5374, F1: 0.4979 (common: 603.0, retrieved: 1300.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 169, loss: 1.3211, P: 0.4444, R: 0.5439, F1: 0.4892 (common: 564.0, retrieved: 1269.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 182, loss: 1.3310, P: 0.4502, R: 0.5561, F1: 0.4976 (common: 624.0, retrieved: 1386.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 182, loss: 1.3310, P: 0.4246, R: 0.5699, F1: 0.4866 (common: 591.0, retrieved: 1392.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 195, loss: 1.2585, P: 0.4225, R: 0.5758, F1: 0.4874 (common: 646.0, retrieved: 1529.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 195, loss: 1.2585, P: 0.4260, R: 0.6046, F1: 0.4998 (common: 627.0, retrieved: 1472.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 208, loss: 1.0576, P: 0.5593, R: 0.5588, F1: 0.5591 (common: 627.0, retrieved: 1121.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 208, loss: 1.0576, P: 0.5744, R: 0.5882, F1: 0.5812 (common: 610.0, retrieved: 1062.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 221, loss: 1.0659, P: 0.4904, R: 0.5891, F1: 0.5352 (common: 661.0, retrieved: 1348.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 221, loss: 1.0659, P: 0.5000, R: 0.6239, F1: 0.5551 (common: 647.0, retrieved: 1294.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 234, loss: 1.0994, P: 0.5220, R: 0.5722, F1: 0.5459 (common: 642.0, retrieved: 1230.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 234, loss: 1.0994, P: 0.5307, R: 0.5998, F1: 0.5632 (common: 622.0, retrieved: 1172.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 247, loss: 1.0987, P: 0.4410, R: 0.5891, F1: 0.5044 (common: 661.0, retrieved: 1499.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 247, loss: 1.0987, P: 0.4465, R: 0.6152, F1: 0.5174 (common: 638.0, retrieved: 1429.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 260, loss: 1.0424, P: 0.4967, R: 0.5998, F1: 0.5434 (common: 673.0, retrieved: 1355.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 260, loss: 1.0424, P: 0.4889, R: 0.6143, F1: 0.5444 (common: 637.0, retrieved: 1303.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 273, loss: 0.7770, P: 0.5498, R: 0.5758, F1: 0.5625 (common: 646.0, retrieved: 1175.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 273, loss: 0.7770, P: 0.5671, R: 0.6075, F1: 0.5866 (common: 630.0, retrieved: 1111.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 286, loss: 0.7253, P: 0.5818, R: 0.5642, F1: 0.5729 (common: 633.0, retrieved: 1088.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 286, loss: 0.7253, P: 0.5979, R: 0.5921, F1: 0.5950 (common: 614.0, retrieved: 1027.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 299, loss: 0.8194, P: 0.5474, R: 0.5615, F1: 0.5543 (common: 630.0, retrieved: 1151.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 299, loss: 0.8194, P: 0.5850, R: 0.6008, F1: 0.5928 (common: 623.0, retrieved: 1065.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 312, loss: 0.7406, P: 0.5465, R: 0.5918, F1: 0.5682 (common: 664.0, retrieved: 1215.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 312, loss: 0.7406, P: 0.5482, R: 0.6191, F1: 0.5815 (common: 642.0, retrieved: 1171.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 325, loss: 0.7666, P: 0.5676, R: 0.5722, F1: 0.5699 (common: 642.0, retrieved: 1131.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 325, loss: 0.7666, P: 0.5871, R: 0.6075, F1: 0.5972 (common: 630.0, retrieved: 1073.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 338, loss: 0.6589, P: 0.5690, R: 0.5472, F1: 0.5579 (common: 614.0, retrieved: 1079.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 338, loss: 0.6589, P: 0.5795, R: 0.5728, F1: 0.5761 (common: 594.0, retrieved: 1025.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 351, loss: 0.6523, P: 0.5590, R: 0.5865, F1: 0.5724 (common: 658.0, retrieved: 1177.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 351, loss: 0.6523, P: 0.5727, R: 0.6075, F1: 0.5896 (common: 630.0, retrieved: 1100.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 364, loss: 0.5336, P: 0.5880, R: 0.5660, F1: 0.5767 (common: 635.0, retrieved: 1080.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 364, loss: 0.5336, P: 0.6192, R: 0.5959, F1: 0.6074 (common: 618.0, retrieved: 998.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 377, loss: 0.6107, P: 0.5595, R: 0.5909, F1: 0.5748 (common: 663.0, retrieved: 1185.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 377, loss: 0.6107, P: 0.5782, R: 0.6278, F1: 0.6019 (common: 651.0, retrieved: 1126.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 390, loss: 0.5760, P: 0.5776, R: 0.5740, F1: 0.5758 (common: 644.0, retrieved: 1115.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 390, loss: 0.5760, P: 0.5676, R: 0.5786, F1: 0.5731 (common: 600.0, retrieved: 1057.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 403, loss: 0.5325, P: 0.5917, R: 0.5811, F1: 0.5863 (common: 652.0, retrieved: 1102.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 403, loss: 0.5325, P: 0.6096, R: 0.6008, F1: 0.6051 (common: 623.0, retrieved: 1022.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 416, loss: 0.4701, P: 0.5861, R: 0.5882, F1: 0.5872 (common: 660.0, retrieved: 1126.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 416, loss: 0.4701, P: 0.6051, R: 0.6133, F1: 0.6092 (common: 636.0, retrieved: 1051.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 429, loss: 0.4945, P: 0.5804, R: 0.5918, F1: 0.5861 (common: 664.0, retrieved: 1144.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 429, loss: 0.4945, P: 0.6064, R: 0.6239, F1: 0.6150 (common: 647.0, retrieved: 1067.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 442, loss: 0.4935, P: 0.5744, R: 0.5989, F1: 0.5864 (common: 672.0, retrieved: 1170.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 442, loss: 0.4935, P: 0.5998, R: 0.6374, F1: 0.6180 (common: 661.0, retrieved: 1102.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 455, loss: 0.5316, P: 0.6047, R: 0.5918, F1: 0.5982 (common: 664.0, retrieved: 1098.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 455, loss: 0.5316, P: 0.6236, R: 0.6104, F1: 0.6170 (common: 633.0, retrieved: 1015.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 468, loss: 0.4139, P: 0.5836, R: 0.5945, F1: 0.5890 (common: 667.0, retrieved: 1143.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 468, loss: 0.4139, P: 0.5994, R: 0.6191, F1: 0.6091 (common: 642.0, retrieved: 1071.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 481, loss: 0.4537, P: 0.6038, R: 0.5731, F1: 0.5880 (common: 643.0, retrieved: 1065.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 481, loss: 0.4537, P: 0.6190, R: 0.5969, F1: 0.6078 (common: 619.0, retrieved: 1000.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 494, loss: 0.4988, P: 0.5839, R: 0.5954, F1: 0.5896 (common: 668.0, retrieved: 1144.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 494, loss: 0.4988, P: 0.6085, R: 0.6220, F1: 0.6152 (common: 645.0, retrieved: 1060.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 507, loss: 0.4263, P: 0.5853, R: 0.5900, F1: 0.5877 (common: 662.0, retrieved: 1131.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 507, loss: 0.4263, P: 0.6025, R: 0.6095, F1: 0.6059 (common: 632.0, retrieved: 1049.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 520, loss: 0.4386, P: 0.6043, R: 0.5758, F1: 0.5897 (common: 646.0, retrieved: 1069.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 520, loss: 0.4386, P: 0.6169, R: 0.5902, F1: 0.6033 (common: 612.0, retrieved: 992.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 533, loss: 0.3943, P: 0.5938, R: 0.6096, F1: 0.6016 (common: 684.0, retrieved: 1152.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 533, loss: 0.3943, P: 0.6050, R: 0.6278, F1: 0.6162 (common: 651.0, retrieved: 1076.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 546, loss: 0.4008, P: 0.5781, R: 0.5971, F1: 0.5875 (common: 670.0, retrieved: 1159.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 546, loss: 0.4008, P: 0.5852, R: 0.6191, F1: 0.6017 (common: 642.0, retrieved: 1097.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 559, loss: 0.3877, P: 0.5910, R: 0.6105, F1: 0.6006 (common: 685.0, retrieved: 1159.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 559, loss: 0.3877, P: 0.6016, R: 0.6336, F1: 0.6172 (common: 657.0, retrieved: 1092.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 572, loss: 0.4252, P: 0.5940, R: 0.5971, F1: 0.5956 (common: 670.0, retrieved: 1128.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 572, loss: 0.4252, P: 0.6034, R: 0.6191, F1: 0.6111 (common: 642.0, retrieved: 1064.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 585, loss: 0.4316, P: 0.5736, R: 0.6043, F1: 0.5885 (common: 678.0, retrieved: 1182.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 585, loss: 0.4316, P: 0.5705, R: 0.6201, F1: 0.5943 (common: 643.0, retrieved: 1127.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 598, loss: 0.3516, P: 0.5817, R: 0.5963, F1: 0.5889 (common: 669.0, retrieved: 1150.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 598, loss: 0.3516, P: 0.5994, R: 0.6249, F1: 0.6119 (common: 648.0, retrieved: 1081.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 611, loss: 0.3936, P: 0.5941, R: 0.6078, F1: 0.6009 (common: 682.0, retrieved: 1148.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 611, loss: 0.3936, P: 0.5932, R: 0.6230, F1: 0.6077 (common: 646.0, retrieved: 1089.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 624, loss: 0.4036, P: 0.5730, R: 0.5945, F1: 0.5836 (common: 667.0, retrieved: 1164.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 624, loss: 0.4036, P: 0.5978, R: 0.6278, F1: 0.6124 (common: 651.0, retrieved: 1089.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 637, loss: 0.3952, P: 0.5975, R: 0.5900, F1: 0.5937 (common: 662.0, retrieved: 1108.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 637, loss: 0.3952, P: 0.6095, R: 0.6172, F1: 0.6133 (common: 640.0, retrieved: 1050.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 650, loss: 0.3825, P: 0.5858, R: 0.6114, F1: 0.5983 (common: 686.0, retrieved: 1171.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 650, loss: 0.3825, P: 0.5942, R: 0.6326, F1: 0.6128 (common: 656.0, retrieved: 1104.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 663, loss: 0.4141, P: 0.5860, R: 0.6194, F1: 0.6023 (common: 695.0, retrieved: 1186.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 663, loss: 0.4141, P: 0.5896, R: 0.6345, F1: 0.6112 (common: 658.0, retrieved: 1116.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 676, loss: 0.3569, P: 0.5847, R: 0.6061, F1: 0.5952 (common: 680.0, retrieved: 1163.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 676, loss: 0.3569, P: 0.5976, R: 0.6345, F1: 0.6155 (common: 658.0, retrieved: 1101.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 689, loss: 0.3471, P: 0.5884, R: 0.6168, F1: 0.6023 (common: 692.0, retrieved: 1176.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 689, loss: 0.3471, P: 0.5953, R: 0.6384, F1: 0.6161 (common: 662.0, retrieved: 1112.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 702, loss: 0.3622, P: 0.5753, R: 0.6230, F1: 0.5982 (common: 699.0, retrieved: 1215.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 702, loss: 0.3622, P: 0.5750, R: 0.6471, F1: 0.6089 (common: 671.0, retrieved: 1167.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 715, loss: 0.3845, P: 0.5865, R: 0.6132, F1: 0.5996 (common: 688.0, retrieved: 1173.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 715, loss: 0.3845, P: 0.5885, R: 0.6316, F1: 0.6093 (common: 655.0, retrieved: 1113.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 728, loss: 0.3553, P: 0.5818, R: 0.6212, F1: 0.6009 (common: 697.0, retrieved: 1198.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 728, loss: 0.3553, P: 0.5798, R: 0.6374, F1: 0.6073 (common: 661.0, retrieved: 1140.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 741, loss: 0.3500, P: 0.5851, R: 0.6159, F1: 0.6001 (common: 691.0, retrieved: 1181.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 741, loss: 0.3500, P: 0.5903, R: 0.6365, F1: 0.6125 (common: 660.0, retrieved: 1118.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 754, loss: 0.3878, P: 0.5785, R: 0.6007, F1: 0.5894 (common: 674.0, retrieved: 1165.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 754, loss: 0.3878, P: 0.5835, R: 0.6268, F1: 0.6044 (common: 650.0, retrieved: 1114.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 767, loss: 0.3761, P: 0.5845, R: 0.6070, F1: 0.5955 (common: 681.0, retrieved: 1165.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 767, loss: 0.3761, P: 0.5924, R: 0.6307, F1: 0.6109 (common: 654.0, retrieved: 1104.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 780, loss: 0.3664, P: 0.5801, R: 0.6230, F1: 0.6008 (common: 699.0, retrieved: 1205.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 780, loss: 0.3664, P: 0.5879, R: 0.6548, F1: 0.6195 (common: 679.0, retrieved: 1155.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 793, loss: 0.3572, P: 0.5770, R: 0.5980, F1: 0.5873 (common: 671.0, retrieved: 1163.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 793, loss: 0.3572, P: 0.5954, R: 0.6201, F1: 0.6075 (common: 643.0, retrieved: 1080.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 806, loss: 0.3331, P: 0.5911, R: 0.6043, F1: 0.5976 (common: 678.0, retrieved: 1147.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 806, loss: 0.3331, P: 0.6121, R: 0.6316, F1: 0.6217 (common: 655.0, retrieved: 1070.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 819, loss: 0.3556, P: 0.5845, R: 0.6043, F1: 0.5942 (common: 678.0, retrieved: 1160.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 819, loss: 0.3556, P: 0.6046, R: 0.6384, F1: 0.6210 (common: 662.0, retrieved: 1095.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 832, loss: 0.3622, P: 0.5877, R: 0.6034, F1: 0.5954 (common: 677.0, retrieved: 1152.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 832, loss: 0.3622, P: 0.6015, R: 0.6258, F1: 0.6134 (common: 649.0, retrieved: 1079.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 845, loss: 0.3688, P: 0.5769, R: 0.6052, F1: 0.5907 (common: 679.0, retrieved: 1177.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 845, loss: 0.3688, P: 0.5986, R: 0.6384, F1: 0.6178 (common: 662.0, retrieved: 1106.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 858, loss: 0.3440, P: 0.5817, R: 0.6123, F1: 0.5966 (common: 687.0, retrieved: 1181.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 858, loss: 0.3440, P: 0.6022, R: 0.6451, F1: 0.6229 (common: 669.0, retrieved: 1111.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 871, loss: 0.3145, P: 0.5837, R: 0.6185, F1: 0.6006 (common: 694.0, retrieved: 1189.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 871, loss: 0.3145, P: 0.6030, R: 0.6519, F1: 0.6265 (common: 676.0, retrieved: 1121.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 884, loss: 0.3847, P: 0.5789, R: 0.6114, F1: 0.5947 (common: 686.0, retrieved: 1185.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 884, loss: 0.3847, P: 0.6034, R: 0.6471, F1: 0.6245 (common: 671.0, retrieved: 1112.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 897, loss: 0.3951, P: 0.5750, R: 0.5945, F1: 0.5846 (common: 667.0, retrieved: 1160.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 897, loss: 0.3951, P: 0.5996, R: 0.6297, F1: 0.6143 (common: 653.0, retrieved: 1089.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 910, loss: 0.3259, P: 0.5944, R: 0.6007, F1: 0.5975 (common: 674.0, retrieved: 1134.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 910, loss: 0.3259, P: 0.6123, R: 0.6336, F1: 0.6227 (common: 657.0, retrieved: 1073.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 923, loss: 0.3377, P: 0.5821, R: 0.6132, F1: 0.5972 (common: 688.0, retrieved: 1182.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 923, loss: 0.3377, P: 0.5971, R: 0.6403, F1: 0.6180 (common: 664.0, retrieved: 1112.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 936, loss: 0.3560, P: 0.5680, R: 0.6070, F1: 0.5868 (common: 681.0, retrieved: 1199.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 936, loss: 0.3560, P: 0.5783, R: 0.6374, F1: 0.6064 (common: 661.0, retrieved: 1143.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 949, loss: 0.3384, P: 0.5760, R: 0.6150, F1: 0.5948 (common: 690.0, retrieved: 1198.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 949, loss: 0.3384, P: 0.5879, R: 0.6451, F1: 0.6152 (common: 669.0, retrieved: 1138.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 962, loss: 0.3719, P: 0.5821, R: 0.6132, F1: 0.5972 (common: 688.0, retrieved: 1182.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 962, loss: 0.3719, P: 0.5996, R: 0.6442, F1: 0.6211 (common: 668.0, retrieved: 1114.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 975, loss: 0.3270, P: 0.5819, R: 0.6176, F1: 0.5992 (common: 693.0, retrieved: 1191.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 975, loss: 0.3270, P: 0.5944, R: 0.6500, F1: 0.6209 (common: 674.0, retrieved: 1134.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 988, loss: 0.3810, P: 0.5870, R: 0.6194, F1: 0.6028 (common: 695.0, retrieved: 1184.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 988, loss: 0.3810, P: 0.5991, R: 0.6471, F1: 0.6222 (common: 671.0, retrieved: 1120.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1001, loss: 0.3541, P: 0.5906, R: 0.6185, F1: 0.6043 (common: 694.0, retrieved: 1175.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1001, loss: 0.3541, P: 0.6022, R: 0.6422, F1: 0.6216 (common: 666.0, retrieved: 1106.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1014, loss: 0.3077, P: 0.5900, R: 0.6194, F1: 0.6043 (common: 695.0, retrieved: 1178.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1014, loss: 0.3077, P: 0.6041, R: 0.6461, F1: 0.6244 (common: 670.0, retrieved: 1109.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1027, loss: 0.3316, P: 0.5897, R: 0.6212, F1: 0.6050 (common: 697.0, retrieved: 1182.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1027, loss: 0.3316, P: 0.6002, R: 0.6442, F1: 0.6214 (common: 668.0, retrieved: 1113.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1040, loss: 0.3501, P: 0.5878, R: 0.6114, F1: 0.5994 (common: 686.0, retrieved: 1167.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1040, loss: 0.3501, P: 0.6078, R: 0.6442, F1: 0.6255 (common: 668.0, retrieved: 1099.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1053, loss: 0.3382, P: 0.5878, R: 0.6114, F1: 0.5994 (common: 686.0, retrieved: 1167.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1053, loss: 0.3382, P: 0.6058, R: 0.6403, F1: 0.6226 (common: 664.0, retrieved: 1096.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1066, loss: 0.3500, P: 0.5957, R: 0.6132, F1: 0.6043 (common: 688.0, retrieved: 1155.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1066, loss: 0.3500, P: 0.6002, R: 0.6355, F1: 0.6173 (common: 659.0, retrieved: 1098.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1079, loss: 0.3324, P: 0.5871, R: 0.6185, F1: 0.6024 (common: 694.0, retrieved: 1182.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1079, loss: 0.3324, P: 0.6034, R: 0.6500, F1: 0.6258 (common: 674.0, retrieved: 1117.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1092, loss: 0.3319, P: 0.5942, R: 0.6016, F1: 0.5979 (common: 675.0, retrieved: 1136.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1092, loss: 0.3319, P: 0.6037, R: 0.6287, F1: 0.6160 (common: 652.0, retrieved: 1080.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1105, loss: 0.3481, P: 0.5795, R: 0.6105, F1: 0.5946 (common: 685.0, retrieved: 1182.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1105, loss: 0.3481, P: 0.5909, R: 0.6365, F1: 0.6128 (common: 660.0, retrieved: 1117.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1118, loss: 0.3163, P: 0.5894, R: 0.5963, F1: 0.5928 (common: 669.0, retrieved: 1135.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1118, loss: 0.3163, P: 0.6000, R: 0.6220, F1: 0.6108 (common: 645.0, retrieved: 1075.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1131, loss: 0.3542, P: 0.5920, R: 0.6078, F1: 0.5998 (common: 682.0, retrieved: 1152.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1131, loss: 0.3542, P: 0.6118, R: 0.6413, F1: 0.6262 (common: 665.0, retrieved: 1087.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1144, loss: 0.3150, P: 0.5922, R: 0.6123, F1: 0.6021 (common: 687.0, retrieved: 1160.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1144, loss: 0.3150, P: 0.5982, R: 0.6316, F1: 0.6144 (common: 655.0, retrieved: 1095.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1157, loss: 0.3541, P: 0.5881, R: 0.6248, F1: 0.6059 (common: 701.0, retrieved: 1192.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1157, loss: 0.3541, P: 0.5958, R: 0.6509, F1: 0.6221 (common: 675.0, retrieved: 1133.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1170, loss: 0.3685, P: 0.5987, R: 0.6328, F1: 0.6153 (common: 710.0, retrieved: 1186.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1170, loss: 0.3685, P: 0.6035, R: 0.6577, F1: 0.6294 (common: 682.0, retrieved: 1130.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1183, loss: 0.3458, P: 0.5915, R: 0.6168, F1: 0.6038 (common: 692.0, retrieved: 1170.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1183, loss: 0.3458, P: 0.6075, R: 0.6403, F1: 0.6235 (common: 664.0, retrieved: 1093.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1196, loss: 0.3371, P: 0.5944, R: 0.6230, F1: 0.6084 (common: 699.0, retrieved: 1176.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1196, loss: 0.3371, P: 0.6054, R: 0.6451, F1: 0.6246 (common: 669.0, retrieved: 1105.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1209, loss: 0.3458, P: 0.5951, R: 0.6221, F1: 0.6083 (common: 698.0, retrieved: 1173.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1209, loss: 0.3458, P: 0.6063, R: 0.6461, F1: 0.6256 (common: 670.0, retrieved: 1105.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1222, loss: 0.3533, P: 0.5905, R: 0.6221, F1: 0.6059 (common: 698.0, retrieved: 1182.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1222, loss: 0.3533, P: 0.6025, R: 0.6490, F1: 0.6249 (common: 673.0, retrieved: 1117.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1235, loss: 0.3253, P: 0.5997, R: 0.6248, F1: 0.6120 (common: 701.0, retrieved: 1169.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1235, loss: 0.3253, P: 0.6082, R: 0.6451, F1: 0.6261 (common: 669.0, retrieved: 1100.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1248, loss: 0.3439, P: 0.5997, R: 0.6248, F1: 0.6120 (common: 701.0, retrieved: 1169.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1248, loss: 0.3439, P: 0.6036, R: 0.6403, F1: 0.6214 (common: 664.0, retrieved: 1100.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1261, loss: 0.3719, P: 0.5998, R: 0.6105, F1: 0.6051 (common: 685.0, retrieved: 1142.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1261, loss: 0.3719, P: 0.5985, R: 0.6297, F1: 0.6137 (common: 653.0, retrieved: 1091.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1274, loss: 0.3392, P: 0.6056, R: 0.6132, F1: 0.6094 (common: 688.0, retrieved: 1136.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1274, loss: 0.3392, P: 0.6206, R: 0.6403, F1: 0.6303 (common: 664.0, retrieved: 1070.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1287, loss: 0.3568, P: 0.5879, R: 0.6052, F1: 0.5964 (common: 679.0, retrieved: 1155.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1287, loss: 0.3568, P: 0.6130, R: 0.6355, F1: 0.6241 (common: 659.0, retrieved: 1075.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1300, loss: 0.3006, P: 0.5871, R: 0.6007, F1: 0.5938 (common: 674.0, retrieved: 1148.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1300, loss: 0.3006, P: 0.6095, R: 0.6307, F1: 0.6199 (common: 654.0, retrieved: 1073.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1313, loss: 0.3387, P: 0.5858, R: 0.6087, F1: 0.5970 (common: 683.0, retrieved: 1166.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1313, loss: 0.3387, P: 0.6167, R: 0.6500, F1: 0.6329 (common: 674.0, retrieved: 1093.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1326, loss: 0.3314, P: 0.5951, R: 0.6078, F1: 0.6014 (common: 682.0, retrieved: 1146.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1326, loss: 0.3314, P: 0.6138, R: 0.6345, F1: 0.6240 (common: 658.0, retrieved: 1072.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1339, loss: 0.3571, P: 0.5940, R: 0.6168, F1: 0.6052 (common: 692.0, retrieved: 1165.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1339, loss: 0.3571, P: 0.6159, R: 0.6480, F1: 0.6316 (common: 672.0, retrieved: 1091.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1352, loss: 0.3161, P: 0.6024, R: 0.6185, F1: 0.6104 (common: 694.0, retrieved: 1152.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1352, loss: 0.3161, P: 0.6147, R: 0.6384, F1: 0.6263 (common: 662.0, retrieved: 1077.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1365, loss: 0.3396, P: 0.5991, R: 0.6194, F1: 0.6091 (common: 695.0, retrieved: 1160.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1365, loss: 0.3396, P: 0.6109, R: 0.6374, F1: 0.6239 (common: 661.0, retrieved: 1082.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1378, loss: 0.3282, P: 0.5894, R: 0.6052, F1: 0.5972 (common: 679.0, retrieved: 1152.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1378, loss: 0.3282, P: 0.6150, R: 0.6393, F1: 0.6270 (common: 663.0, retrieved: 1078.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1391, loss: 0.3369, P: 0.5929, R: 0.6114, F1: 0.6020 (common: 686.0, retrieved: 1157.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1391, loss: 0.3369, P: 0.6096, R: 0.6384, F1: 0.6236 (common: 662.0, retrieved: 1086.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1404, loss: 0.3625, P: 0.5937, R: 0.6043, F1: 0.5989 (common: 678.0, retrieved: 1142.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1404, loss: 0.3625, P: 0.6286, R: 0.6480, F1: 0.6382 (common: 672.0, retrieved: 1069.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1417, loss: 0.3541, P: 0.6041, R: 0.6025, F1: 0.6033 (common: 676.0, retrieved: 1119.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1417, loss: 0.3541, P: 0.6292, R: 0.6365, F1: 0.6328 (common: 660.0, retrieved: 1049.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1430, loss: 0.3047, P: 0.6041, R: 0.6105, F1: 0.6073 (common: 685.0, retrieved: 1134.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1430, loss: 0.3047, P: 0.6255, R: 0.6393, F1: 0.6323 (common: 663.0, retrieved: 1060.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1443, loss: 0.3687, P: 0.5938, R: 0.6007, F1: 0.5973 (common: 674.0, retrieved: 1135.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1443, loss: 0.3687, P: 0.6238, R: 0.6365, F1: 0.6301 (common: 660.0, retrieved: 1058.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1456, loss: 0.3461, P: 0.5950, R: 0.5971, F1: 0.5961 (common: 670.0, retrieved: 1126.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1456, loss: 0.3461, P: 0.6235, R: 0.6355, F1: 0.6294 (common: 659.0, retrieved: 1057.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1469, loss: 0.3327, P: 0.6000, R: 0.5989, F1: 0.5995 (common: 672.0, retrieved: 1120.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1469, loss: 0.3327, P: 0.6272, R: 0.6393, F1: 0.6332 (common: 663.0, retrieved: 1057.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1482, loss: 0.3145, P: 0.5952, R: 0.5909, F1: 0.5930 (common: 663.0, retrieved: 1114.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1482, loss: 0.3145, P: 0.6160, R: 0.6220, F1: 0.6190 (common: 645.0, retrieved: 1047.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1495, loss: 0.3192, P: 0.6044, R: 0.6141, F1: 0.6092 (common: 689.0, retrieved: 1140.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1495, loss: 0.3192, P: 0.6266, R: 0.6442, F1: 0.6353 (common: 668.0, retrieved: 1066.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1508, loss: 0.3360, P: 0.5927, R: 0.6043, F1: 0.5984 (common: 678.0, retrieved: 1144.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1508, loss: 0.3360, P: 0.6236, R: 0.6422, F1: 0.6328 (common: 666.0, retrieved: 1068.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1521, loss: 0.3242, P: 0.5907, R: 0.6007, F1: 0.5957 (common: 674.0, retrieved: 1141.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1521, loss: 0.3242, P: 0.6017, R: 0.6191, F1: 0.6103 (common: 642.0, retrieved: 1067.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1534, loss: 0.3333, P: 0.6018, R: 0.5980, F1: 0.5999 (common: 671.0, retrieved: 1115.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1534, loss: 0.3333, P: 0.6358, R: 0.6432, F1: 0.6395 (common: 667.0, retrieved: 1049.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1547, loss: 0.3289, P: 0.5912, R: 0.5954, F1: 0.5933 (common: 668.0, retrieved: 1130.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1547, loss: 0.3289, P: 0.6361, R: 0.6490, F1: 0.6425 (common: 673.0, retrieved: 1058.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1560, loss: 0.3539, P: 0.5930, R: 0.6025, F1: 0.5977 (common: 676.0, retrieved: 1140.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1560, loss: 0.3539, P: 0.6311, R: 0.6500, F1: 0.6404 (common: 674.0, retrieved: 1068.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1573, loss: 0.2920, P: 0.5965, R: 0.6007, F1: 0.5986 (common: 674.0, retrieved: 1130.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1573, loss: 0.2920, P: 0.6284, R: 0.6442, F1: 0.6362 (common: 668.0, retrieved: 1063.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1586, loss: 0.3355, P: 0.6090, R: 0.6123, F1: 0.6107 (common: 687.0, retrieved: 1128.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1586, loss: 0.3355, P: 0.6328, R: 0.6432, F1: 0.6380 (common: 667.0, retrieved: 1054.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1599, loss: 0.3413, P: 0.6002, R: 0.6141, F1: 0.6070 (common: 689.0, retrieved: 1148.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1599, loss: 0.3413, P: 0.6209, R: 0.6413, F1: 0.6309 (common: 665.0, retrieved: 1071.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1612, loss: 0.3527, P: 0.6066, R: 0.6185, F1: 0.6125 (common: 694.0, retrieved: 1144.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1612, loss: 0.3527, P: 0.6307, R: 0.6490, F1: 0.6397 (common: 673.0, retrieved: 1067.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1625, loss: 0.3579, P: 0.6041, R: 0.5971, F1: 0.6006 (common: 670.0, retrieved: 1109.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1625, loss: 0.3579, P: 0.6263, R: 0.6239, F1: 0.6251 (common: 647.0, retrieved: 1033.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1638, loss: 0.3424, P: 0.6058, R: 0.6150, F1: 0.6103 (common: 690.0, retrieved: 1139.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1638, loss: 0.3424, P: 0.6194, R: 0.6403, F1: 0.6297 (common: 664.0, retrieved: 1072.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1651, loss: 0.3323, P: 0.6018, R: 0.6087, F1: 0.6052 (common: 683.0, retrieved: 1135.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1651, loss: 0.3323, P: 0.6286, R: 0.6480, F1: 0.6382 (common: 672.0, retrieved: 1069.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1664, loss: 0.3278, P: 0.6025, R: 0.6052, F1: 0.6038 (common: 679.0, retrieved: 1127.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1664, loss: 0.3278, P: 0.6226, R: 0.6316, F1: 0.6271 (common: 655.0, retrieved: 1052.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1677, loss: 0.3374, P: 0.6073, R: 0.5749, F1: 0.5907 (common: 645.0, retrieved: 1062.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1677, loss: 0.3374, P: 0.6360, R: 0.6133, F1: 0.6244 (common: 636.0, retrieved: 1000.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1690, loss: 0.3683, P: 0.5986, R: 0.5927, F1: 0.5956 (common: 665.0, retrieved: 1111.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1690, loss: 0.3683, P: 0.6218, R: 0.6278, F1: 0.6248 (common: 651.0, retrieved: 1047.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1703, loss: 0.3057, P: 0.6127, R: 0.6007, F1: 0.6067 (common: 674.0, retrieved: 1100.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1703, loss: 0.3057, P: 0.6340, R: 0.6297, F1: 0.6318 (common: 653.0, retrieved: 1030.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1716, loss: 0.3672, P: 0.6146, R: 0.6096, F1: 0.6121 (common: 684.0, retrieved: 1113.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1716, loss: 0.3672, P: 0.6387, R: 0.6393, F1: 0.6390 (common: 663.0, retrieved: 1038.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1729, loss: 0.3435, P: 0.6037, R: 0.6070, F1: 0.6053 (common: 681.0, retrieved: 1128.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1729, loss: 0.3435, P: 0.6159, R: 0.6278, F1: 0.6218 (common: 651.0, retrieved: 1057.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1742, loss: 0.3301, P: 0.5991, R: 0.6061, F1: 0.6026 (common: 680.0, retrieved: 1135.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1742, loss: 0.3301, P: 0.6223, R: 0.6355, F1: 0.6288 (common: 659.0, retrieved: 1059.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1755, loss: 0.3312, P: 0.6118, R: 0.5900, F1: 0.6007 (common: 662.0, retrieved: 1082.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1755, loss: 0.3312, P: 0.6353, R: 0.6181, F1: 0.6266 (common: 641.0, retrieved: 1009.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1768, loss: 0.3616, P: 0.6092, R: 0.6016, F1: 0.6054 (common: 675.0, retrieved: 1108.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1768, loss: 0.3616, P: 0.6390, R: 0.6384, F1: 0.6387 (common: 662.0, retrieved: 1036.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1781, loss: 0.3152, P: 0.6023, R: 0.5980, F1: 0.6002 (common: 671.0, retrieved: 1114.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1781, loss: 0.3152, P: 0.6200, R: 0.6278, F1: 0.6239 (common: 651.0, retrieved: 1050.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1794, loss: 0.3186, P: 0.5913, R: 0.5945, F1: 0.5929 (common: 667.0, retrieved: 1128.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1794, loss: 0.3186, P: 0.6157, R: 0.6287, F1: 0.6221 (common: 652.0, retrieved: 1059.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1807, loss: 0.3116, P: 0.6028, R: 0.6141, F1: 0.6084 (common: 689.0, retrieved: 1143.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1807, loss: 0.3116, P: 0.6177, R: 0.6403, F1: 0.6288 (common: 664.0, retrieved: 1075.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1820, loss: 0.3604, P: 0.6011, R: 0.6043, F1: 0.6027 (common: 678.0, retrieved: 1128.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1820, loss: 0.3604, P: 0.6226, R: 0.6365, F1: 0.6295 (common: 660.0, retrieved: 1060.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1833, loss: 0.2990, P: 0.6083, R: 0.6105, F1: 0.6094 (common: 685.0, retrieved: 1126.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1833, loss: 0.2990, P: 0.6282, R: 0.6403, F1: 0.6342 (common: 664.0, retrieved: 1057.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1846, loss: 0.3446, P: 0.6049, R: 0.6114, F1: 0.6082 (common: 686.0, retrieved: 1134.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1846, loss: 0.3446, P: 0.6288, R: 0.6451, F1: 0.6368 (common: 669.0, retrieved: 1064.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1859, loss: 0.3633, P: 0.6039, R: 0.6087, F1: 0.6063 (common: 683.0, retrieved: 1131.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1859, loss: 0.3633, P: 0.6292, R: 0.6432, F1: 0.6361 (common: 667.0, retrieved: 1060.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1872, loss: 0.3470, P: 0.6061, R: 0.6159, F1: 0.6110 (common: 691.0, retrieved: 1140.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1872, loss: 0.3470, P: 0.6216, R: 0.6432, F1: 0.6322 (common: 667.0, retrieved: 1073.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1885, loss: 0.3114, P: 0.6080, R: 0.6096, F1: 0.6088 (common: 684.0, retrieved: 1125.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1885, loss: 0.3114, P: 0.6127, R: 0.6239, F1: 0.6183 (common: 647.0, retrieved: 1056.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1898, loss: 0.3514, P: 0.6132, R: 0.6105, F1: 0.6119 (common: 685.0, retrieved: 1117.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1898, loss: 0.3514, P: 0.6306, R: 0.6355, F1: 0.6330 (common: 659.0, retrieved: 1045.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1911, loss: 0.3401, P: 0.6168, R: 0.6096, F1: 0.6132 (common: 684.0, retrieved: 1109.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1911, loss: 0.3401, P: 0.6327, R: 0.6345, F1: 0.6336 (common: 658.0, retrieved: 1040.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1924, loss: 0.3121, P: 0.6120, R: 0.6114, F1: 0.6117 (common: 686.0, retrieved: 1121.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1924, loss: 0.3121, P: 0.6258, R: 0.6355, F1: 0.6306 (common: 659.0, retrieved: 1053.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1937, loss: 0.3290, P: 0.6106, R: 0.6052, F1: 0.6079 (common: 679.0, retrieved: 1112.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1937, loss: 0.3290, P: 0.6231, R: 0.6297, F1: 0.6264 (common: 653.0, retrieved: 1048.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1950, loss: 0.3164, P: 0.6145, R: 0.6194, F1: 0.6170 (common: 695.0, retrieved: 1131.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1950, loss: 0.3164, P: 0.6303, R: 0.6413, F1: 0.6358 (common: 665.0, retrieved: 1055.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1963, loss: 0.3180, P: 0.5946, R: 0.6078, F1: 0.6011 (common: 682.0, retrieved: 1147.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1963, loss: 0.3180, P: 0.6196, R: 0.6393, F1: 0.6293 (common: 663.0, retrieved: 1070.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1976, loss: 0.3644, P: 0.6040, R: 0.6159, F1: 0.6099 (common: 691.0, retrieved: 1144.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1976, loss: 0.3644, P: 0.6289, R: 0.6471, F1: 0.6378 (common: 671.0, retrieved: 1067.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 1989, loss: 0.3261, P: 0.6067, R: 0.6007, F1: 0.6037 (common: 674.0, retrieved: 1111.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 1989, loss: 0.3261, P: 0.6310, R: 0.6365, F1: 0.6337 (common: 660.0, retrieved: 1046.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2002, loss: 0.3254, P: 0.6043, R: 0.5963, F1: 0.6003 (common: 669.0, retrieved: 1107.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2002, loss: 0.3254, P: 0.6340, R: 0.6365, F1: 0.6352 (common: 660.0, retrieved: 1041.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2015, loss: 0.3202, P: 0.6113, R: 0.5998, F1: 0.6055 (common: 673.0, retrieved: 1101.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2015, loss: 0.3202, P: 0.6196, R: 0.6143, F1: 0.6169 (common: 637.0, retrieved: 1028.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2028, loss: 0.3319, P: 0.6074, R: 0.5998, F1: 0.6036 (common: 673.0, retrieved: 1108.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2028, loss: 0.3319, P: 0.6254, R: 0.6230, F1: 0.6242 (common: 646.0, retrieved: 1033.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2041, loss: 0.2982, P: 0.6138, R: 0.6034, F1: 0.6085 (common: 677.0, retrieved: 1103.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2041, loss: 0.2982, P: 0.6350, R: 0.6326, F1: 0.6338 (common: 656.0, retrieved: 1033.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2054, loss: 0.3379, P: 0.6098, R: 0.6016, F1: 0.6057 (common: 675.0, retrieved: 1107.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2054, loss: 0.3379, P: 0.6395, R: 0.6365, F1: 0.6380 (common: 660.0, retrieved: 1032.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2067, loss: 0.3374, P: 0.6144, R: 0.5865, F1: 0.6001 (common: 658.0, retrieved: 1071.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2067, loss: 0.3374, P: 0.6292, R: 0.6152, F1: 0.6221 (common: 638.0, retrieved: 1014.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2080, loss: 0.3369, P: 0.6026, R: 0.6123, F1: 0.6074 (common: 687.0, retrieved: 1140.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2080, loss: 0.3369, P: 0.6266, R: 0.6442, F1: 0.6353 (common: 668.0, retrieved: 1066.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2093, loss: 0.3271, P: 0.5995, R: 0.5936, F1: 0.5965 (common: 666.0, retrieved: 1111.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2093, loss: 0.3271, P: 0.6208, R: 0.6220, F1: 0.6214 (common: 645.0, retrieved: 1039.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2106, loss: 0.3286, P: 0.6054, R: 0.6016, F1: 0.6035 (common: 675.0, retrieved: 1115.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2106, loss: 0.3286, P: 0.6324, R: 0.6355, F1: 0.6340 (common: 659.0, retrieved: 1042.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2119, loss: 0.3409, P: 0.6110, R: 0.6132, F1: 0.6121 (common: 688.0, retrieved: 1126.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2119, loss: 0.3409, P: 0.6196, R: 0.6268, F1: 0.6232 (common: 650.0, retrieved: 1049.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2132, loss: 0.3263, P: 0.6007, R: 0.6034, F1: 0.6020 (common: 677.0, retrieved: 1127.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2132, loss: 0.3263, P: 0.6362, R: 0.6442, F1: 0.6402 (common: 668.0, retrieved: 1050.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2145, loss: 0.3210, P: 0.6101, R: 0.6123, F1: 0.6112 (common: 687.0, retrieved: 1126.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2145, loss: 0.3210, P: 0.6302, R: 0.6393, F1: 0.6348 (common: 663.0, retrieved: 1052.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2158, loss: 0.3212, P: 0.6092, R: 0.6114, F1: 0.6103 (common: 686.0, retrieved: 1126.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2158, loss: 0.3212, P: 0.6313, R: 0.6422, F1: 0.6367 (common: 666.0, retrieved: 1055.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2171, loss: 0.3650, P: 0.6070, R: 0.6043, F1: 0.6056 (common: 678.0, retrieved: 1117.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2171, loss: 0.3650, P: 0.6321, R: 0.6345, F1: 0.6333 (common: 658.0, retrieved: 1041.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2184, loss: 0.3020, P: 0.6069, R: 0.6096, F1: 0.6083 (common: 684.0, retrieved: 1127.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2184, loss: 0.3020, P: 0.6229, R: 0.6355, F1: 0.6291 (common: 659.0, retrieved: 1058.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2197, loss: 0.3282, P: 0.6121, R: 0.6132, F1: 0.6126 (common: 688.0, retrieved: 1124.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2197, loss: 0.3282, P: 0.6275, R: 0.6384, F1: 0.6329 (common: 662.0, retrieved: 1055.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2210, loss: 0.3199, P: 0.6122, R: 0.6078, F1: 0.6100 (common: 682.0, retrieved: 1114.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2210, loss: 0.3199, P: 0.6353, R: 0.6384, F1: 0.6368 (common: 662.0, retrieved: 1042.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2223, loss: 0.3381, P: 0.6061, R: 0.6007, F1: 0.6034 (common: 674.0, retrieved: 1112.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2223, loss: 0.3381, P: 0.6361, R: 0.6422, F1: 0.6392 (common: 666.0, retrieved: 1047.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2236, loss: 0.3549, P: 0.6152, R: 0.6114, F1: 0.6133 (common: 686.0, retrieved: 1115.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2236, loss: 0.3549, P: 0.6331, R: 0.6374, F1: 0.6353 (common: 661.0, retrieved: 1044.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2249, loss: 0.3053, P: 0.6169, R: 0.6114, F1: 0.6141 (common: 686.0, retrieved: 1112.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2249, loss: 0.3053, P: 0.6329, R: 0.6384, F1: 0.6356 (common: 662.0, retrieved: 1046.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2262, loss: 0.3377, P: 0.6126, R: 0.6087, F1: 0.6106 (common: 683.0, retrieved: 1115.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2262, loss: 0.3377, P: 0.6392, R: 0.6422, F1: 0.6407 (common: 666.0, retrieved: 1042.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2275, loss: 0.2968, P: 0.6045, R: 0.5954, F1: 0.5999 (common: 668.0, retrieved: 1105.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2275, loss: 0.2968, P: 0.6395, R: 0.6365, F1: 0.6380 (common: 660.0, retrieved: 1032.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2288, loss: 0.3318, P: 0.6090, R: 0.5998, F1: 0.6044 (common: 673.0, retrieved: 1105.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2288, loss: 0.3318, P: 0.6369, R: 0.6326, F1: 0.6347 (common: 656.0, retrieved: 1030.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2301, loss: 0.3401, P: 0.6150, R: 0.6123, F1: 0.6137 (common: 687.0, retrieved: 1117.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2301, loss: 0.3401, P: 0.6363, R: 0.6393, F1: 0.6378 (common: 663.0, retrieved: 1042.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2314, loss: 0.3378, P: 0.6111, R: 0.6078, F1: 0.6095 (common: 682.0, retrieved: 1116.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2314, loss: 0.3378, P: 0.6385, R: 0.6403, F1: 0.6394 (common: 664.0, retrieved: 1040.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2327, loss: 0.3146, P: 0.6110, R: 0.6061, F1: 0.6085 (common: 680.0, retrieved: 1113.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2327, loss: 0.3146, P: 0.6324, R: 0.6355, F1: 0.6340 (common: 659.0, retrieved: 1042.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2340, loss: 0.3121, P: 0.6126, R: 0.6132, F1: 0.6129 (common: 688.0, retrieved: 1123.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2340, loss: 0.3121, P: 0.6351, R: 0.6413, F1: 0.6382 (common: 665.0, retrieved: 1047.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2353, loss: 0.3064, P: 0.6162, R: 0.6168, F1: 0.6165 (common: 692.0, retrieved: 1123.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2353, loss: 0.3064, P: 0.6328, R: 0.6365, F1: 0.6346 (common: 660.0, retrieved: 1043.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2366, loss: 0.3158, P: 0.6118, R: 0.6123, F1: 0.6120 (common: 687.0, retrieved: 1123.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2366, loss: 0.3158, P: 0.6331, R: 0.6422, F1: 0.6376 (common: 666.0, retrieved: 1052.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2379, loss: 0.3447, P: 0.6135, R: 0.6141, F1: 0.6138 (common: 689.0, retrieved: 1123.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2379, loss: 0.3447, P: 0.6280, R: 0.6413, F1: 0.6345 (common: 665.0, retrieved: 1059.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2392, loss: 0.3132, P: 0.6176, R: 0.6203, F1: 0.6189 (common: 696.0, retrieved: 1127.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2392, loss: 0.3132, P: 0.6356, R: 0.6442, F1: 0.6398 (common: 668.0, retrieved: 1051.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2405, loss: 0.3506, P: 0.6109, R: 0.6114, F1: 0.6111 (common: 686.0, retrieved: 1123.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2405, loss: 0.3506, P: 0.6327, R: 0.6413, F1: 0.6370 (common: 665.0, retrieved: 1051.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2418, loss: 0.3099, P: 0.6150, R: 0.6123, F1: 0.6137 (common: 687.0, retrieved: 1117.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2418, loss: 0.3099, P: 0.6313, R: 0.6374, F1: 0.6344 (common: 661.0, retrieved: 1047.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2431, loss: 0.3057, P: 0.6157, R: 0.6070, F1: 0.6113 (common: 681.0, retrieved: 1106.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2431, loss: 0.3057, P: 0.6256, R: 0.6268, F1: 0.6262 (common: 650.0, retrieved: 1039.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2444, loss: 0.3393, P: 0.6148, R: 0.6132, F1: 0.6140 (common: 688.0, retrieved: 1119.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2444, loss: 0.3393, P: 0.6284, R: 0.6326, F1: 0.6305 (common: 656.0, retrieved: 1044.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2457, loss: 0.3330, P: 0.6148, R: 0.6087, F1: 0.6117 (common: 683.0, retrieved: 1111.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2457, loss: 0.3330, P: 0.6309, R: 0.6345, F1: 0.6327 (common: 658.0, retrieved: 1043.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2470, loss: 0.3345, P: 0.6113, R: 0.6096, F1: 0.6104 (common: 684.0, retrieved: 1119.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2470, loss: 0.3345, P: 0.6378, R: 0.6403, F1: 0.6391 (common: 664.0, retrieved: 1041.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2483, loss: 0.3548, P: 0.6185, R: 0.6185, F1: 0.6185 (common: 694.0, retrieved: 1122.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2483, loss: 0.3548, P: 0.6335, R: 0.6384, F1: 0.6359 (common: 662.0, retrieved: 1045.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2496, loss: 0.3202, P: 0.6170, R: 0.6159, F1: 0.6164 (common: 691.0, retrieved: 1120.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2496, loss: 0.3202, P: 0.6315, R: 0.6345, F1: 0.6330 (common: 658.0, retrieved: 1042.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2509, loss: 0.3414, P: 0.6176, R: 0.6132, F1: 0.6154 (common: 688.0, retrieved: 1114.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2509, loss: 0.3414, P: 0.6330, R: 0.6355, F1: 0.6343 (common: 659.0, retrieved: 1041.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2522, loss: 0.2888, P: 0.6255, R: 0.5954, F1: 0.6100 (common: 668.0, retrieved: 1068.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2522, loss: 0.2888, P: 0.6381, R: 0.6172, F1: 0.6275 (common: 640.0, retrieved: 1003.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2535, loss: 0.3240, P: 0.6270, R: 0.5918, F1: 0.6089 (common: 664.0, retrieved: 1059.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2535, loss: 0.3240, P: 0.6340, R: 0.6114, F1: 0.6225 (common: 634.0, retrieved: 1000.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2548, loss: 0.3219, P: 0.6100, R: 0.5980, F1: 0.6040 (common: 671.0, retrieved: 1100.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2548, loss: 0.3219, P: 0.6436, R: 0.6374, F1: 0.6405 (common: 661.0, retrieved: 1027.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2561, loss: 0.3275, P: 0.6103, R: 0.5918, F1: 0.6009 (common: 664.0, retrieved: 1088.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2561, loss: 0.3275, P: 0.6340, R: 0.6230, F1: 0.6284 (common: 646.0, retrieved: 1019.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2574, loss: 0.2968, P: 0.6062, R: 0.6052, F1: 0.6057 (common: 679.0, retrieved: 1120.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2574, loss: 0.2968, P: 0.6363, R: 0.6393, F1: 0.6378 (common: 663.0, retrieved: 1042.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2587, loss: 0.3413, P: 0.6075, R: 0.6043, F1: 0.6059 (common: 678.0, retrieved: 1116.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2587, loss: 0.3413, P: 0.6385, R: 0.6422, F1: 0.6404 (common: 666.0, retrieved: 1043.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2600, loss: 0.3412, P: 0.6080, R: 0.6070, F1: 0.6075 (common: 681.0, retrieved: 1120.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2600, loss: 0.3412, P: 0.6367, R: 0.6422, F1: 0.6395 (common: 666.0, retrieved: 1046.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2613, loss: 0.3185, P: 0.6057, R: 0.6025, F1: 0.6041 (common: 676.0, retrieved: 1116.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2613, loss: 0.3185, P: 0.6392, R: 0.6422, F1: 0.6407 (common: 666.0, retrieved: 1042.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2626, loss: 0.3498, P: 0.6114, R: 0.5945, F1: 0.6028 (common: 667.0, retrieved: 1091.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2626, loss: 0.3498, P: 0.6383, R: 0.6297, F1: 0.6340 (common: 653.0, retrieved: 1023.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2639, loss: 0.3045, P: 0.6215, R: 0.6087, F1: 0.6150 (common: 683.0, retrieved: 1099.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2639, loss: 0.3045, P: 0.6291, R: 0.6249, F1: 0.6270 (common: 648.0, retrieved: 1030.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2652, loss: 0.3304, P: 0.6147, R: 0.6114, F1: 0.6130 (common: 686.0, retrieved: 1116.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2652, loss: 0.3304, P: 0.6338, R: 0.6393, F1: 0.6366 (common: 663.0, retrieved: 1046.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2665, loss: 0.3235, P: 0.6174, R: 0.6141, F1: 0.6157 (common: 689.0, retrieved: 1116.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2665, loss: 0.3235, P: 0.6349, R: 0.6355, F1: 0.6352 (common: 659.0, retrieved: 1038.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2678, loss: 0.3075, P: 0.6118, R: 0.6096, F1: 0.6107 (common: 684.0, retrieved: 1118.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2678, loss: 0.3075, P: 0.6379, R: 0.6422, F1: 0.6401 (common: 666.0, retrieved: 1044.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2691, loss: 0.3209, P: 0.6216, R: 0.6061, F1: 0.6137 (common: 680.0, retrieved: 1094.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2691, loss: 0.3209, P: 0.6321, R: 0.6230, F1: 0.6275 (common: 646.0, retrieved: 1022.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2704, loss: 0.3232, P: 0.6157, R: 0.6070, F1: 0.6113 (common: 681.0, retrieved: 1106.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2704, loss: 0.3232, P: 0.6395, R: 0.6345, F1: 0.6370 (common: 658.0, retrieved: 1029.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2717, loss: 0.3522, P: 0.6179, R: 0.5954, F1: 0.6064 (common: 668.0, retrieved: 1081.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2717, loss: 0.3522, P: 0.6365, R: 0.6230, F1: 0.6296 (common: 646.0, retrieved: 1015.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2730, loss: 0.3225, P: 0.6110, R: 0.6061, F1: 0.6085 (common: 680.0, retrieved: 1113.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2730, loss: 0.3225, P: 0.6370, R: 0.6345, F1: 0.6357 (common: 658.0, retrieved: 1033.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2743, loss: 0.3492, P: 0.6107, R: 0.6025, F1: 0.6066 (common: 676.0, retrieved: 1107.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2743, loss: 0.3492, P: 0.6329, R: 0.6316, F1: 0.6322 (common: 655.0, retrieved: 1035.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2756, loss: 0.3351, P: 0.6133, R: 0.6078, F1: 0.6106 (common: 682.0, retrieved: 1112.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2756, loss: 0.3351, P: 0.6361, R: 0.6355, F1: 0.6358 (common: 659.0, retrieved: 1036.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2769, loss: 0.3027, P: 0.6148, R: 0.6087, F1: 0.6117 (common: 683.0, retrieved: 1111.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2769, loss: 0.3027, P: 0.6390, R: 0.6384, F1: 0.6387 (common: 662.0, retrieved: 1036.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2782, loss: 0.3185, P: 0.6121, R: 0.6061, F1: 0.6090 (common: 680.0, retrieved: 1111.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2782, loss: 0.3185, P: 0.6400, R: 0.6393, F1: 0.6397 (common: 663.0, retrieved: 1036.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2795, loss: 0.3130, P: 0.6134, R: 0.6052, F1: 0.6092 (common: 679.0, retrieved: 1107.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2795, loss: 0.3130, P: 0.6354, R: 0.6336, F1: 0.6345 (common: 657.0, retrieved: 1034.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2808, loss: 0.2977, P: 0.6155, R: 0.6078, F1: 0.6117 (common: 682.0, retrieved: 1108.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2808, loss: 0.2977, P: 0.6395, R: 0.6345, F1: 0.6370 (common: 658.0, retrieved: 1029.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2821, loss: 0.3216, P: 0.6118, R: 0.6025, F1: 0.6071 (common: 676.0, retrieved: 1105.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2821, loss: 0.3216, P: 0.6415, R: 0.6384, F1: 0.6399 (common: 662.0, retrieved: 1032.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2834, loss: 0.3157, P: 0.6139, R: 0.6078, F1: 0.6108 (common: 682.0, retrieved: 1111.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2834, loss: 0.3157, P: 0.6389, R: 0.6365, F1: 0.6377 (common: 660.0, retrieved: 1033.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2847, loss: 0.3127, P: 0.6150, R: 0.6078, F1: 0.6114 (common: 682.0, retrieved: 1109.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2847, loss: 0.3127, P: 0.6393, R: 0.6374, F1: 0.6383 (common: 661.0, retrieved: 1034.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2860, loss: 0.3700, P: 0.6143, R: 0.6061, F1: 0.6101 (common: 680.0, retrieved: 1107.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2860, loss: 0.3700, P: 0.6427, R: 0.6384, F1: 0.6405 (common: 662.0, retrieved: 1030.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2873, loss: 0.3351, P: 0.6115, R: 0.6061, F1: 0.6088 (common: 680.0, retrieved: 1112.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2873, loss: 0.3351, P: 0.6370, R: 0.6345, F1: 0.6357 (common: 658.0, retrieved: 1033.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2886, loss: 0.2966, P: 0.6168, R: 0.6025, F1: 0.6096 (common: 676.0, retrieved: 1096.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2886, loss: 0.2966, P: 0.6364, R: 0.6278, F1: 0.6320 (common: 651.0, retrieved: 1023.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2899, loss: 0.3538, P: 0.6156, R: 0.6123, F1: 0.6139 (common: 687.0, retrieved: 1116.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2899, loss: 0.3538, P: 0.6363, R: 0.6393, F1: 0.6378 (common: 663.0, retrieved: 1042.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2912, loss: 0.3218, P: 0.6116, R: 0.5936, F1: 0.6024 (common: 666.0, retrieved: 1089.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2912, loss: 0.3218, P: 0.6278, R: 0.6181, F1: 0.6229 (common: 641.0, retrieved: 1021.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2925, loss: 0.3129, P: 0.6119, R: 0.6043, F1: 0.6081 (common: 678.0, retrieved: 1108.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2925, loss: 0.3129, P: 0.6432, R: 0.6432, F1: 0.6432 (common: 667.0, retrieved: 1037.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2938, loss: 0.3168, P: 0.6143, R: 0.6105, F1: 0.6124 (common: 685.0, retrieved: 1115.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2938, loss: 0.3168, P: 0.6381, R: 0.6393, F1: 0.6387 (common: 663.0, retrieved: 1039.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2951, loss: 0.3089, P: 0.6097, R: 0.6043, F1: 0.6070 (common: 678.0, retrieved: 1112.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2951, loss: 0.3089, P: 0.6356, R: 0.6374, F1: 0.6365 (common: 661.0, retrieved: 1040.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2964, loss: 0.3204, P: 0.6076, R: 0.5963, F1: 0.6019 (common: 669.0, retrieved: 1101.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2964, loss: 0.3204, P: 0.6334, R: 0.6297, F1: 0.6315 (common: 653.0, retrieved: 1031.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2977, loss: 0.3290, P: 0.6130, R: 0.6043, F1: 0.6086 (common: 678.0, retrieved: 1106.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2977, loss: 0.3290, P: 0.6342, R: 0.6336, F1: 0.6339 (common: 657.0, retrieved: 1036.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 2990, loss: 0.3422, P: 0.6096, R: 0.5998, F1: 0.6047 (common: 673.0, retrieved: 1104.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 2990, loss: 0.3422, P: 0.6373, R: 0.6355, F1: 0.6364 (common: 659.0, retrieved: 1034.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3003, loss: 0.3443, P: 0.6127, R: 0.6105, F1: 0.6116 (common: 685.0, retrieved: 1118.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3003, loss: 0.3443, P: 0.6368, R: 0.6374, F1: 0.6371 (common: 661.0, retrieved: 1038.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3016, loss: 0.3612, P: 0.6122, R: 0.6105, F1: 0.6113 (common: 685.0, retrieved: 1119.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3016, loss: 0.3612, P: 0.6370, R: 0.6413, F1: 0.6391 (common: 665.0, retrieved: 1044.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3029, loss: 0.3423, P: 0.6153, R: 0.6159, F1: 0.6156 (common: 691.0, retrieved: 1123.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3029, loss: 0.3423, P: 0.6393, R: 0.6461, F1: 0.6427 (common: 670.0, retrieved: 1048.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3042, loss: 0.3299, P: 0.6127, R: 0.6105, F1: 0.6116 (common: 685.0, retrieved: 1118.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3042, loss: 0.3299, P: 0.6367, R: 0.6422, F1: 0.6395 (common: 666.0, retrieved: 1046.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3055, loss: 0.2470, P: 0.6124, R: 0.6096, F1: 0.6110 (common: 684.0, retrieved: 1117.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3055, loss: 0.2470, P: 0.6432, R: 0.6432, F1: 0.6432 (common: 667.0, retrieved: 1037.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3068, loss: 0.3024, P: 0.6108, R: 0.6070, F1: 0.6089 (common: 681.0, retrieved: 1115.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3068, loss: 0.3024, P: 0.6451, R: 0.6432, F1: 0.6441 (common: 667.0, retrieved: 1034.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3081, loss: 0.3283, P: 0.6128, R: 0.6078, F1: 0.6103 (common: 682.0, retrieved: 1113.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3081, loss: 0.3283, P: 0.6434, R: 0.6403, F1: 0.6419 (common: 664.0, retrieved: 1032.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3094, loss: 0.3011, P: 0.6122, R: 0.6078, F1: 0.6100 (common: 682.0, retrieved: 1114.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3094, loss: 0.3011, P: 0.6403, R: 0.6403, F1: 0.6403 (common: 664.0, retrieved: 1037.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3107, loss: 0.3313, P: 0.6123, R: 0.5927, F1: 0.6024 (common: 665.0, retrieved: 1086.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3107, loss: 0.3313, P: 0.6341, R: 0.6249, F1: 0.6294 (common: 648.0, retrieved: 1022.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3120, loss: 0.3548, P: 0.6099, R: 0.6034, F1: 0.6066 (common: 677.0, retrieved: 1110.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3120, loss: 0.3548, P: 0.6435, R: 0.6422, F1: 0.6429 (common: 666.0, retrieved: 1035.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3133, loss: 0.3260, P: 0.6110, R: 0.6061, F1: 0.6085 (common: 680.0, retrieved: 1113.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3133, loss: 0.3260, P: 0.6413, R: 0.6432, F1: 0.6423 (common: 667.0, retrieved: 1040.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3146, loss: 0.3529, P: 0.6138, R: 0.6105, F1: 0.6122 (common: 685.0, retrieved: 1116.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3146, loss: 0.3529, P: 0.6365, R: 0.6384, F1: 0.6375 (common: 662.0, retrieved: 1040.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3159, loss: 0.3306, P: 0.6113, R: 0.6096, F1: 0.6104 (common: 684.0, retrieved: 1119.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3159, loss: 0.3306, P: 0.6353, R: 0.6384, F1: 0.6368 (common: 662.0, retrieved: 1042.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3172, loss: 0.2981, P: 0.6099, R: 0.6034, F1: 0.6066 (common: 677.0, retrieved: 1110.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3172, loss: 0.2981, P: 0.6429, R: 0.6422, F1: 0.6425 (common: 666.0, retrieved: 1036.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3185, loss: 0.3055, P: 0.6117, R: 0.6052, F1: 0.6084 (common: 679.0, retrieved: 1110.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3185, loss: 0.3055, P: 0.6400, R: 0.6393, F1: 0.6397 (common: 663.0, retrieved: 1036.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3198, loss: 0.3871, P: 0.6103, R: 0.6043, F1: 0.6073 (common: 678.0, retrieved: 1111.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3198, loss: 0.3871, P: 0.6393, R: 0.6393, F1: 0.6393 (common: 663.0, retrieved: 1037.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3211, loss: 0.3093, P: 0.6109, R: 0.6016, F1: 0.6062 (common: 675.0, retrieved: 1105.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3211, loss: 0.3093, P: 0.6412, R: 0.6393, F1: 0.6403 (common: 663.0, retrieved: 1034.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3224, loss: 0.3360, P: 0.6127, R: 0.6034, F1: 0.6080 (common: 677.0, retrieved: 1105.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3224, loss: 0.3360, P: 0.6379, R: 0.6336, F1: 0.6357 (common: 657.0, retrieved: 1030.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3237, loss: 0.2906, P: 0.6121, R: 0.6061, F1: 0.6090 (common: 680.0, retrieved: 1111.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3237, loss: 0.2906, P: 0.6429, R: 0.6422, F1: 0.6425 (common: 666.0, retrieved: 1036.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+dev step: 3250, loss: 0.2948, P: 0.6147, R: 0.6114, F1: 0.6130 (common: 686.0, retrieved: 1116.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+test step: 3250, loss: 0.2948, P: 0.6413, R: 0.6413, F1: 0.6413 (common: 665.0, retrieved: 1037.0, relevant: 1037.0),(relation_R: 0.3724,relation_V: 0.2552)
+ 
+threshold: 8.0, step: 3250, P: 0.6176, R: 0.6203, F1: 0.6189 (common: 696.0, retrieved: 1127.0, relevant: 1122.0),(relation_R: 0.3535,relation_V: 0.2724)
+ 
